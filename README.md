@@ -1,6 +1,7 @@
 # student-success-risk-pipeline
 A machine learning project that analyzes academic and demographic data to identify students who may be at risk of dropping out
-**Team Project**
+
+## Team Project
 This project was developed collaboratively as part of a group project. My primary contributions included machine learning model development, model evaluation, and analysis of model performance.
 
 ## Project Overview
